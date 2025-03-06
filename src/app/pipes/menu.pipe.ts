@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { MenuModel } from '../../menu';
+import { MenuModel } from '../menu';
 
 @Pipe({
   name: 'menu',

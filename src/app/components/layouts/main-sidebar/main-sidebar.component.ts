@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Menus } from '../../../../menu';
+import { Menus } from '../../../menu';
 import { CommonModule } from '@angular/common';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 import { FormsModule } from '@angular/forms';
